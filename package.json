@@ -1,0 +1,30 @@
+{
+  "name": "wechat-official-draft-publisher",
+  "version": "1.0.0",
+  "description": "微信公众号草稿发布 Skill — 纯官方 API，零第三方，将 Markdown/HTML 文章发布到公众号草稿箱。WeChat Official Account draft publisher via official API.",
+  "keywords": [
+    "wechat",
+    "wechat-official-account",
+    "微信公众号",
+    "草稿发布",
+    "markdown-to-wechat",
+    "article-publisher",
+    "claude-code",
+    "skills",
+    "draft-publisher",
+    "公众号"
+  ],
+  "author": "stonebb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stonebb/wechat-skills"
+  },
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "scripts/",
+    "assets/"
+  ]
+}

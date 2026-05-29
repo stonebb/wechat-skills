@@ -1,6 +1,6 @@
 ---
 name: wechat-official-draft-publisher
-description: Publish Markdown/HTML articles to WeChat Official Account (微信公众号) draft box via official WeChat API — no third-party services, AppSecret stays local. Use when user wants to publish to WeChat drafts, push articles to 公众号草稿箱, mentions 发布到公众号, or needs to create WeChat drafts with cover images. Do NOT use for reading/extracting WeChat articles (use wechat-article-extractor instead).
+description: 微信公众号草稿发布 / WeChat Official Account Draft Publisher — 将 Markdown/HTML 文章发布到微信公众号草稿箱，纯官方 API 零第三方，AppSecret 不离开本机。支持封面图生成、防AI味写作指南。Use when user wants to publish to WeChat drafts, push articles to 公众号草稿箱, mentions 发布到公众号, 微信文章, 公众号排版, or needs to create WeChat drafts with cover images. Do NOT use for reading/extracting WeChat articles (use wechat-article-extractor instead).
 ---
 
 # WeChat Official Draft Publisher

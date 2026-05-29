@@ -1,8 +1,8 @@
 # wechat-official-draft-publisher
 
-> 微信公众号草稿发布 Skill — 纯官方 API，零第三方，安全透明。
+> 微信公众号草稿发布 Skill / WeChat Official Account Draft Publisher — 纯官方 API，零第三方，安全透明。支持封面图生成、防 AI 味写作指南、公众号排版规范。
 
-将 Markdown/HTML 文章一键发布到微信公众号草稿箱，全程只调 `api.weixin.qq.com`，AppSecret 不离开本机。
+将 Markdown/HTML 文章一键发布到微信公众号草稿箱，全程只调 `api.weixin.qq.com`，AppSecret 不离开本机。适用于公众号写作、微信文章排版、自媒体内容创作。
 
 ## 特性
 
